@@ -1,0 +1,63 @@
+[submodule "src/github.com/mdempsky/gocode"]
+	path = src/github.com/mdempsky/gocode
+	url = https://github.com/mdempsky/gocode
+[submodule "src/github.com/uudashr/gopkgs"]
+	path = src/github.com/uudashr/gopkgs
+	url = https://github.com/uudashr/gopkgs
+[submodule "src/github.com/ramya-rao-a/go-outline"]
+	path = src/github.com/ramya-rao-a/go-outline
+	url = https://github.com/ramya-rao-a/go-outline
+[submodule "src/github.com/acroca/go-symbols"]
+	path = src/github.com/acroca/go-symbols
+	url = https://github.com/acroca/go-symbols
+[submodule "src/golang.org/x/tools"]
+	path = src/golang.org/x/tools
+	url = https://github.com/golang/tools
+[submodule "src/github.com/cweill/gotests"]
+	path = src/github.com/cweill/gotests
+	url = https://github.com/cweill/gotests
+[submodule "src/github.com/fatih/gomodifytags"]
+	path = src/github.com/fatih/gomodifytags
+	url = https://github.com/fatih/gomodifytags
+[submodule "src/github.com/josharian/impl"]
+	path = src/github.com/josharian/impl
+	url = https://github.com/josharian/impl
+[submodule "src/github.com/davidrjenni/reftools"]
+	path = src/github.com/davidrjenni/reftools
+	url = https://github.com/davidrjenni/reftools
+[submodule "src/github.com/haya14busa/goplay"]
+	path = src/github.com/haya14busa/goplay
+	url = https://github.com/haya14busa/goplay
+[submodule "src/github.com/godoctor/godoctor"]
+	path = src/github.com/godoctor/godoctor
+	url = https://github.com/godoctor/godoctor
+[submodule "src/github.com/go-delve/delve"]
+	path = src/github.com/go-delve/delve
+	url = https://github.com/go-delve/delve
+[submodule "src/github.com/stamblerre/gocode"]
+	path = src/github.com/stamblerre/gocode
+	url = https://github.com/stamblerre/gocode
+[submodule "src/github.com/rogpeppe/godef"]
+	path = src/github.com/rogpeppe/godef
+	url = https://github.com/rogpeppe/godef
+[submodule "src/github.com/sqs/goreturns"]
+	path = src/github.com/sqs/goreturns
+	url = https://github.com/sqs/goreturns
+[submodule "src/golang.org/x/lint"]
+	path = src/golang.org/x/lint
+	url = https://github.com/golang/lint
+[submodule "src/github.com/karrick/godirwalk"]
+	path = src/github.com/karrick/godirwalk
+	url = https://github.com/karrick/godirwalk
+[submodule "src/github.com/pkg/errors"]
+	path = src/github.com/pkg/errors
+	url = https://github.com/pkg/errors
+[submodule "src/golang.org/x/mod"]
+	path = src/golang.org/x/mod
+	url = https://github.com/golang/mod
+[submodule "src/golang.org/x/xerrors"]
+	path = src/golang.org/x/xerrors
+	url = https://github.com/golang/xerrors
+[submodule "src/github.com/skratchdot/open-golang"]
+	path = src/github.com/skratchdot/open-golang
+	url = https://github.com/skratchdot/open-golang
