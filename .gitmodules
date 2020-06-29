@@ -61,3 +61,15 @@
 [submodule "src/github.com/skratchdot/open-golang"]
 	path = src/github.com/skratchdot/open-golang
 	url = https://github.com/skratchdot/open-golang
+[submodule "src/github.com/fiorix/wsdl2go"]
+	path = src/github.com/fiorix/wsdl2go
+	url = https://github.com/fiorix/wsdl2go
+[submodule "src/golang.org/x/net"]
+	path = src/golang.org/x/net
+	url = https://github.com/golang/net
+[submodule "src/golang.org/x/text"]
+	path = src/golang.org/x/text
+	url = https://github.com/golang/text
+[submodule "src/golang.org/x/crypto"]
+	path = src/golang.org/x/crypto
+	url = https://github.com/golang/crypto
